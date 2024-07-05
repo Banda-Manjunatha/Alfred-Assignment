@@ -1,0 +1,6 @@
+.filters p {
+  @apply border-[1.5px] flex items-center rounded-md px-2 py-1;
+}
+.card {
+  @apply rounded-3xl overflow-hidden border-[1.5px] cursor-pointer hover:shadow-lg h-[40%];
+}
