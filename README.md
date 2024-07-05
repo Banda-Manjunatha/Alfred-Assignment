@@ -1,6 +1,7 @@
 # Front-End Developer Internship Assignment
 
-![iPhone 13 mini - 9](https://github.com/Banda-Manjunatha/Alfred-Assignment/assets/149859907/ea3146a5-e94c-4bcd-86dc-a5fba9a0c4ff)
+![Rectangle](https://github.com/Banda-Manjunatha/Alfred-Assignment/assets/149859907/bde7a91b-45e6-4f06-a41c-7d10b6e41429)
+
 
 
 ## Project Overview
