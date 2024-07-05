@@ -1,6 +1,7 @@
 # Front-End Developer Internship Assignment
 
-![Project Screen] ("C:\Users\Acer One 14\Downloads\iPhone 13 mini - 9.png")
+![iPhone 13 mini - 9](https://github.com/Banda-Manjunatha/Alfred-Assignment/assets/149859907/ea3146a5-e94c-4bcd-86dc-a5fba9a0c4ff)
+
 
 ## Project Overview
 
