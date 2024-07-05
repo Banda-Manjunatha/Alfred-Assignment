@@ -1,5 +1,7 @@
 # Front-End Developer Internship Assignment
 
+![Project Screen] ("C:\Users\Acer One 14\Downloads\iPhone 13 mini - 9.png")
+
 ## Project Overview
 
 This project aims to create a functional flow of a food ordering app optimized for mobile devices using React JS and Tailwind CSS. The app includes the following screens:
